@@ -41,7 +41,7 @@
 		<!--This is the table that will display the data-->
 		<div class="overflow-auto">
 			<table class="striped">
-				<!--This is the table header-->
+				<!--This is the table headerr-->
 				<thead>
 					<tr>
 						<th scope="col">Year</th>
